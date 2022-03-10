@@ -1,0 +1,52 @@
+.jumbotext {
+    text-align: right;
+}
+
+.jumbotron {
+    min-height: 350px;
+}
+
+.jumboCarousel {
+    margin: 0!important;
+}
+
+.navbar {
+    margin:0;
+}
+
+.card {
+    position: relative;
+    left:50%;
+    transform: translate(-50%,10%);
+}
+
+.form-group {
+    position: relative;
+    left:50%;
+    transform: translate(-50%,0%);
+}
+
+#deforestContainer {
+    padding-bottom: 100px;
+}
+
+#globalWarming {
+    padding-bottom: 100px;
+}
+
+.rectangle {
+	fill: steelblue;
+}
+.rectangle:hover {
+	fill: orange;
+}
+.axis {
+  font: 10px sans-serif;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
